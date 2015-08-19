@@ -4,7 +4,7 @@
 
 int main()
 {
-    using namespace std;
+	using namespace std;
 	
 	int a;
 	cout<<"The long is:";
