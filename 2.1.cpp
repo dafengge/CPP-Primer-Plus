@@ -4,7 +4,7 @@
 
 int main()
 {
-    using namespace std;
+	using namespace std;
 	
 	cout<< "My name is YinChengfeng"<<endl;
 	cout<<"I live in Beijing!"<<endl;
