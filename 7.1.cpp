@@ -5,7 +5,7 @@ double hmnic_aver(double,double);   //计算调和平均数
 
 int main()
 {
-    using namespace std;
+	using namespace std;
 	double a=1,b=1;
 	while (true)
 	{
@@ -24,5 +24,5 @@ int main()
 
 double hmnic_aver(double x,double y)
 {
-    return 2.0*x*y/(x+y);
+	return 2.0*x*y/(x+y);
 }
